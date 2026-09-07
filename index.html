@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirigiendo...</title>
     <!-- Redirección directa por Meta Tag (La más compatible) -->
-    <meta http-equiv="refresh" content="0;url=https://youtube.com">
+    <meta http-equiv="refresh" content="0;url=https://www.youtube.com/shorts/Nh3nfmHM4Uc">
 </head>
 <body>
     <div style="text-align: center; margin-top: 50px; font-family: sans-serif;">
         <p>Redirigiendo al vídeo...</p>
         <!-- Botón de auxilio por si el navegador bloquea la acción automatizada -->
-        <a id="enlace" href="https://youtube.com" style="color: #007bff; text-decoration: none; font-weight: bold;">
+        <a id="enlace" href="https://www.youtube.com/shorts/Nh3nfmHM4Uc" style="color: #007bff; text-decoration: none; font-weight: bold;">
             Si no redirige automáticamente, haz clic aquí
         </a>
     </div>
